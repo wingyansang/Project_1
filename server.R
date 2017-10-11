@@ -35,6 +35,7 @@ shinyServer(function(input, output, session) {
     })
   
     output$table <- DT::renderDataTable(DT::datatable({
+     
       dt()
       }))
     

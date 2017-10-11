@@ -1,6 +1,7 @@
 library(geojsonio)
 library(dplyr)
 library(data.table)
+# library(jqr)
 
 load("./popular_lat_long.rda") # for tab 2
 load("./x11.rda") #for tab 3
