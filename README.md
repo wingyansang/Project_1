@@ -11,7 +11,7 @@ The following is a description of the Github repository:
 Contains the Shiny app.   The 'www' folder contains the image files called in the server.R file.
 
 'data' folder:
-Contains data source files from Citi Bike, national weather service, and the rda (R data frame/data table files) files with the data used in the app. They are loaded in the global.R file within the 'app' folder. 
+Contains data source files from  national weather service, and the rda (R data frame/data table files) files with the data used in the app. They are loaded in the global.R file within the 'app' folder. 
 
 'examples' folder:
 Contains 3 files.
@@ -22,3 +22,6 @@ Contains 3 files.
 
 The Shiny app can be found here:
  https://wing.shinyapps.io/Project1/
+
+Blog post:
+ https://nycdatascience.com/blog/student-works/citi-bike-visual-exploration/
